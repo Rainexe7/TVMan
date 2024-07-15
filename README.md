@@ -14,7 +14,7 @@ local LocalPlayer = game:GetService("Players").LocalPlayer
 local Mouse = LocalPlayer:GetMouse()
 local tween = game:GetService("TweenService")
 local Red = {RainbowColorValue = 0, HueSelectionPosition = 0}
-local LogoButton = [[7040391851]]
+local LogoButton = [[0]]
 
 
 local function Tween(instance, properties,style,wa)
